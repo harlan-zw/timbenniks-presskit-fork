@@ -15,7 +15,7 @@
     "@uniformdev/context": "17.0.0",
     "@uniformdev/context-vue": "17.0.0",
     "@uniformdev/uniform-nuxt": "17.0.0",
-    "nuxt": "^3.0.0-rc.8"
+    "nuxt": "^3.12.4"
   },
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.4.0",
